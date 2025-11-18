@@ -15,3 +15,5 @@
 | Ola | QA | Inaktiv |
 
 <span style="color:red">Dette er en test på rød farge</span>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
